@@ -28,7 +28,6 @@ A recent Computer Science graduate with a solid foundation in **problem-solving*
 ### 📫 How to Reach Me
 - **Email**: [f.a.tonmoy00@gmail.com](mailto:f.a.tonmoy00@gmail.com)  
 - **LinkedIn**: [Fahim Ahamed](https://www.linkedin.com/in/f-a-tonmoy/)  
-- **GitHub**: [f-a-tonmoy](https://github.com/f-a-tonmoy)
 
 ---
 

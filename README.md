@@ -40,9 +40,9 @@ A recent Computer Science graduate with a solid foundation in **problem-solving*
 ---
 
 ### **📚 Research Publications**
-- **Accepted Papers:** 
-  - **"Optimizing Energy Usage: Genetic Algorithms Leading the Charge Toward Sustainability"** – ICO-2023.
-  - **"Texture Feature-Based Colonic Polyp Detection Using Deep Learning Techniques"** – ICO-2023.
+- **Published Papers:** 
+  - **"Optimizing Energy Usage: Genetic Algorithms Leading the Charge Toward Sustainability"** – ICO-2023 [Springer](https://link.springer.com/chapter/10.1007/978-3-031-50887-5_9)
+  - **"Texture Feature-Based Colonic Polyp Detection Using Deep Learning Techniques"** – ICO-2023  [Springer](https://link.springer.com/chapter/10.1007/978-3-031-73324-6_2)
   
 - **Under Review:**
   - **"Simplifying Healthcare Documentation: Deep Learning Approaches for Understanding Medical Prescriptions"** – International Journal of Computing and Digital Systems.

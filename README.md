@@ -1,6 +1,6 @@
 # Hi There! 👋 I'm Fahim Ahamed (Tonmoy)  
 
-A recent Computer Science graduate with a solid foundation in **problem-solving** and **AI fundamentals**, driven by a deep passion for **Artificial Intelligence**, **Deep Learning**, and **Data Science**. I thrive on developing innovative solutions to tackle complex, real-world challenges. My expertise includes leveraging advanced techniques in **Deep Learning**, **Computer Vision**, and **Healthcare Applications** to create impactful, cutting-edge applications.
+A Computer Science graduate with a solid foundation in **problem-solving** and **AI fundamentals**, driven by a deep passion for **Artificial Intelligence**, **Deep Learning**, and **Data Science**. I thrive on developing innovative solutions to tackle complex, real-world challenges. My expertise includes leveraging advanced techniques in **Deep Learning**, **Computer Vision**, **NLP**, and **Healthcare Applications** to create impactful, cutting-edge applications.
 
 ---
 

@@ -6,13 +6,17 @@ A **Data Science professional** with a strong foundation in **AI, machine learni
 
 ### 🔭 What I’m Working On
 - I’m currently working on **NLP-based projects**.  
-- 🤝 I’m looking to collaborate on innovative **research projects** in AI.  
+- Exploring **Vision-Language Models (VLMs)** for multimodal AI applications.  
+- Researching **cyber-attacks and mitigation strategies**, focusing on AI security.  
+- I’m looking to collaborate on innovative **research projects** in AI. 🤝
 
 ---
 
 ### 🌱 What I’m Learning
 - I’m currently learning **Explainable AI** and exploring **AI Fairness** techniques.  
-
+- Diving into **Generative AI (GenAI)** and its real-world applications.  
+- Studying **Agentic AI**, focusing adaptive AI systems.
+ 
 ---
 
 ### 💡 My Research Experience

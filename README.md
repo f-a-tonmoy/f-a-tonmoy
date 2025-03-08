@@ -53,28 +53,30 @@ A **Data Science professional** with a strong foundation in **AI, machine learni
 ## 🛠️ Skills & Tools
 
 ### **Programming Languages**
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 
-### **Data Science & Machine Learning**
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=keras&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-%23FF6C00.svg?style=flat&logo=opencv&logoColor=white)  ![Seaborn](https://img.shields.io/badge/Seaborn-%236CB7F1.svg?style=flat) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23E13C23.svg?style=flat&logo=matplotlib&logoColor=white) ![NLTK](https://img.shields.io/badge/NLTK-%23008080.svg?style=flat&logo=nltk&logoColor=white)
+### **AI & Machine Learning**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=pytorch&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
 
-### **Data Science Tools**
-![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9AB00.svg?style=flat&logo=google-colab&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=flat&logo=jupyter&logoColor=white) ![Kaggle Notebooks](https://img.shields.io/badge/Kaggle%20Notebooks-%2320BEFF.svg?style=flat&logo=kaggle&logoColor=white)
+### **Computer Vision & NLP**
+![OpenCV](https://img.shields.io/badge/OpenCV-%23FF6C00.svg?style=flat&logo=opencv&logoColor=white) ![Pillow](https://img.shields.io/badge/Pillow-%23C9A77C.svg?style=flat) ![NLTK](https://img.shields.io/badge/NLTK-%23008080.svg?style=flat&logo=nltk&logoColor=white) ![SpaCy](https://img.shields.io/badge/SpaCy-%233272B7.svg?style=flat) ![Gensim](https://img.shields.io/badge/Gensim-%230092CC.svg?style=flat)
+
+### **Data Analysis & Visualization**
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23E13C23.svg?style=flat&logo=matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-%236CB7F1.svg?style=flat) ![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=flat&logo=tableau&logoColor=white)
 
 ### **Web Development**
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=flat&logo=flask&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
 
-### **Database Management**
-![Oracle](https://img.shields.io/badge/Oracle-%23F80000.svg?style=flat&logo=oracle&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
+### **Databases & Big Data**
+![Oracle](https://img.shields.io/badge/Oracle-%23F80000.svg?style=flat&logo=oracle&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white) ![Hadoop](https://img.shields.io/badge/Hadoop-%23425E87.svg?style=flat&logo=apache-hadoop&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-%23E25A1C.svg?style=flat&logo=apachespark&logoColor=white)
 
-### **Big Data & Cloud Tools**
-![Hadoop](https://img.shields.io/badge/Hadoop-%23425E87.svg?style=flat&logo=apache-hadoop&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-%23E25A1C.svg?style=flat&logo=apachespark&logoColor=white)
+### **Cloud & Deployment**
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
 
-### **Development Tools**
-![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white) ![JetBrains](https://img.shields.io/badge/JetBrains-%23000000.svg?style=flat&logo=jetbrains&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=flat&logo=android-studio&logoColor=white)
+### **MLOps & CI/CD**
+![MLflow](https://img.shields.io/badge/MLflow-%23003984.svg?style=flat&logo=mlflow&logoColor=white) ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white)
 
-### **Design Tools**
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=flat&logo=adobe-photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?style=flat&logo=adobe-illustrator&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
+### **R&D Tools**
+![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=flat&logo=latex&logoColor=white) ![Mendeley](https://img.shields.io/badge/Mendeley-%23A6192E.svg?style=flat&logo=mendeley&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=flat&logo=jupyter&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white) ![JetBrains](https://img.shields.io/badge/JetBrains-%23000000.svg?style=flat&logo=jetbrains&logoColor=white)
 
-### **Other Tools**
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=flat&logo=latex&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-%2343B02A.svg?style=flat&logo=selenium&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-%23E37321.svg?style=flat&logo=mathworks&logoColor=white)
+---

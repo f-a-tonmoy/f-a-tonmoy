@@ -20,7 +20,7 @@ A **Data Science professional** with a strong foundation in **AI, machine learni
 ---
 
 ### 💡 My Research Experience
-- I have **hands-on research experience** in areas like **Depression Detection**, **Cursive Handwriting Recognition**, and **Adversarial Energy Latency Attacks**, contributing to impactful publications and ongoing projects.  
+- I have **hands-on research experience** in areas like **Depression Detection**, **Cursive Handwriting Recognition**, **Adversarial Energy Latency Attacks**, and **Vision-Language Models (VLMs)**, contributing to impactful publications and ongoing projects.
 
 ---
 
@@ -31,7 +31,7 @@ A **Data Science professional** with a strong foundation in **AI, machine learni
 
 ### 📫 How to Reach Me
 - **Email**: [f.a.tonmoy00@gmail.com](mailto:f.a.tonmoy00@gmail.com)  
-- **LinkedIn**: [Fahim Ahamed](https://www.linkedin.com/in/f-a-tonmoy/)  
+- **LinkedIn**: [Fahim Ahamed](https://www.linkedin.com/in/f-a-tonmoy/)
 
 ---
 

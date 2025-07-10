@@ -38,12 +38,6 @@ A **Data Science professional** with a strong foundation in **AI, machine learni
 
 ### 💬 Ask Me About
 - Data Science, AI Projects, Programming Languages, Data Structures, Algorithms, or anything related to AI & ML.
-  
----
-
-### 📫 How to Reach Me
-- **Email**: [f.a.tonmoy00@gmail.com](mailto:f.a.tonmoy00@gmail.com)  
-- **LinkedIn**: [Fahim Ahamed](https://www.linkedin.com/in/f-a-tonmoy/)
 
 ---
 

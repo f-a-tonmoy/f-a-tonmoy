@@ -8,19 +8,31 @@ A **Data Science professional** with a strong foundation in **AI, machine learni
 - I’m currently working on **NLP-based projects**.  
 - Exploring **Vision-Language Models (VLMs)** for multimodal AI applications.  
 - Researching **cyber-attacks and mitigation strategies**, focusing on AI security.  
-- I’m looking to collaborate on innovative **research projects** in AI. 🤝
+- Open to collaborate on innovative **research projects** in AI. 🤝
 
 ---
 
 ### 🌱 What I’m Learning
 - I’m currently learning **Explainable AI** and exploring **AI Fairness** techniques.  
 - Diving into **Generative AI (GenAI)** and its real-world applications.  
-- Studying **Agentic AI**, focusing adaptive AI systems.
- 
+- Exploring **AI Ethics** and **Data Governance**.
+  
 ---
 
 ### 💡 My Research Experience
 - I have **hands-on research experience** in areas like **Depression Detection**, **Cursive Handwriting Recognition**, **Adversarial Energy Latency Attacks**, and **Vision-Language Models (VLMs)**, contributing to impactful publications and ongoing projects.
+
+---
+
+### **📚 Research Publications**
+- **Published Papers:** 
+  - **"Optimizing Energy Usage: Genetic Algorithms Leading the Charge Toward Sustainability"** – [Springer](https://link.springer.com/chapter/10.1007/978-3-031-50887-5_9)
+  - **"Texture Feature-Based Colonic Polyp Detection Using Deep Learning Techniques"** – [Springer](https://link.springer.com/chapter/10.1007/978-3-031-73324-6_2)
+  
+- **Under Review:**
+  - **"Simplifying Healthcare Documentation: Deep Learning Approaches for Understanding Medical Prescriptions"** – International Journal of Computing and Digital Systems.
+  - **"Adversarial Energy Latency Sponge Attack on Resource Constraint Devices: A Review"** – IEEE IoT Journal.
+  - **"Interpretable Hybrid Model for Skin Cancer Detection"** – Computers in Biology and Medicine.
 
 ---
 
@@ -37,20 +49,10 @@ A **Data Science professional** with a strong foundation in **AI, machine learni
 
 ### 🏆 Achievements
 - Solved **500+ coding problems** on **URI**, **HackerRank**, and **LeetCode** combined.
-- Secured **2nd position** in a programming contest organized by a faculty member.
 - Earned **Gold Problem Solver** badge on **HackerRank**.
 - Awarded **Gold Badges** for **Java** and **SQL** on **HackerRank**.
-
----
-
-### **📚 Research Publications**
-- **Published Papers:** 
-  - **"Optimizing Energy Usage: Genetic Algorithms Leading the Charge Toward Sustainability"** – [Springer](https://link.springer.com/chapter/10.1007/978-3-031-50887-5_9)
-  - **"Texture Feature-Based Colonic Polyp Detection Using Deep Learning Techniques"** – [Springer](https://link.springer.com/chapter/10.1007/978-3-031-73324-6_2)
-  
-- **Under Review:**
-  - **"Simplifying Healthcare Documentation: Deep Learning Approaches for Understanding Medical Prescriptions"** – International Journal of Computing and Digital Systems.
-  - **"Adversarial Energy Latency Sponge Attack on Resource Constraint Devices: A Review"** – IEEE IoT Journal.
+- Organized campus **tech events** and **coding workshops**, leading outreach and logistics.  
+- Conducted beginner-friendly **programming sessions** to mentor peers and juniors.
 
 ---
 
@@ -74,11 +76,8 @@ A **Data Science professional** with a strong foundation in **AI, machine learni
 ### **Databases & Big Data**
 ![Oracle](https://img.shields.io/badge/Oracle-%23F80000.svg?style=flat&logo=oracle&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white) ![Hadoop](https://img.shields.io/badge/Hadoop-%23425E87.svg?style=flat&logo=apache-hadoop&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-%23E25A1C.svg?style=flat&logo=apachespark&logoColor=white)
 
-### **Cloud & Deployment**
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
-
-### **MLOps & CI/CD**
-![MLflow](https://img.shields.io/badge/MLflow-%23003984.svg?style=flat&logo=mlflow&logoColor=white) ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white)
+### **Cloud & MLOps**
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-%23003984.svg?style=flat&logo=mlflow&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white)
 
 ### **R&D Tools**
 ![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=flat&logo=latex&logoColor=white) ![Mendeley](https://img.shields.io/badge/Mendeley-%23A6192E.svg?style=flat&logo=mendeley&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=flat&logo=jupyter&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white) ![JetBrains](https://img.shields.io/badge/JetBrains-%23000000.svg?style=flat&logo=jetbrains&logoColor=white)

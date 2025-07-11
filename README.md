@@ -20,11 +20,8 @@ A **Data Science professional** with a strong foundation in **AI, machine learni
 ---
 
 ### 💡 My Research Experience
-- I have **hands-on research experience** in areas like **Depression Detection**, **Cursive Handwriting Recognition**, **Adversarial Energy Latency Attacks**, and **Vision-Language Models (VLMs)**, contributing to impactful publications and ongoing projects.
+I have **hands-on research experience** in areas like **Depression Detection**, **Cursive Handwriting Recognition**, **Adversarial Energy Latency Attacks**, and **Vision-Language Models (VLMs)**, contributing to impactful publications and ongoing projects.
 
----
-
-### **📚 Research Publications**
 - **Published Papers:** 
   - **"Optimizing Energy Usage: Genetic Algorithms Leading the Charge Toward Sustainability"** – [Springer](https://link.springer.com/chapter/10.1007/978-3-031-50887-5_9)
   - **"Texture Feature-Based Colonic Polyp Detection Using Deep Learning Techniques"** – [Springer](https://link.springer.com/chapter/10.1007/978-3-031-73324-6_2)

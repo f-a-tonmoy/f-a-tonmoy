@@ -29,7 +29,7 @@ I have **hands-on research experience** in areas like **Depression Detection**, 
 - **Under Review:**
   - **"Simplifying Healthcare Documentation: Deep Learning Approaches for Understanding Medical Prescriptions"** – International Journal of Computing and Digital Systems.
   - **"Adversarial Energy Latency Sponge Attack on Resource Constraint Devices: A Review"** – IEEE IoT Journal.
-  - **"Interpretable Hybrid Model for Skin Cancer Detection"** – Computers in Biology and Medicine.
+  - **"Interpretable Hybrid Model for Skin Cancer Detection"** – Knowledge-Based Systems.
 
 ---
 

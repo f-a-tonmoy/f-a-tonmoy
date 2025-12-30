@@ -5,26 +5,36 @@
 ---
 
 ### 🔭 What I’m Working On
-- I’m currently working on **NLP-based projects**.  
-- Exploring **Vision-Language Models (VLMs)** for multimodal AI applications.  
-- Researching **cyber-attacks and mitigation strategies**, focusing on AI security.  
-- Open to collaborate on innovative **research projects** in AI. 🤝
+- Building and experimenting with **Large Language Models (LLMs)** for applied and research-driven use cases.  
+- Designing **retrieval-augmented generation (RAG)** pipelines to ground LLMs in structured and unstructured data.  
+- Developing **Model Context Protocol (MCP)**-based workflows to connect LLMs with tools, databases, and external knowledge sources.
+- Open to collaboration on **LLM-, RAG-, and MCP-focused** research and applied projects. 🤝
 
 ---
 
 ### 🌱 What I’m Learning
-- I’m currently learning **Explainable AI** and exploring **AI Fairness** techniques.  
-- Diving into **Generative AI (GenAI)** and its real-world applications.  
-- Exploring **AI Ethics** and **Data Governance**.
+- Exploring **GraphRAG** approaches to enhance retrieval-augmented generation using structured knowledge graphs  
+- Learning **AI ethics** and **data governance** principles for responsible deployment of machine learning systems
   
 ---
 
 ### 💡 My Research Experience
-I have **hands-on research experience** in areas like **Depression Detection**, **Cursive Handwriting Recognition**, **Adversarial Energy Latency Attacks**, and **Vision-Language Models (VLMs)**, contributing to impactful publications and ongoing projects.
 
-- **Published Papers:** 
-  - **"Optimizing Energy Usage: Genetic Algorithms Leading the Charge Toward Sustainability"** – [Springer](https://link.springer.com/chapter/10.1007/978-3-031-50887-5_9)
-  - **"Texture Feature-Based Colonic Polyp Detection Using Deep Learning Techniques"** – [Springer](https://link.springer.com/chapter/10.1007/978-3-031-73324-6_2)
+I have **hands-on research experience** across **depression detection**, **medical imaging**, **multilingual medical text recognition**, **adversarial attacks on resource-constrained systems**, and **explainable AI**, contributing to **published work**, **accepted papers**, and **ongoing peer-reviewed research**.
+
+#### 📚 Published Papers
+- **Optimizing Energy Usage: Genetic Algorithms Leading the Charge Toward Sustainability** – *Springer Nature*  
+- **Texture Feature-Based Colonic Polyp Detection Using Deep Learning Techniques** – *Springer Nature*
+
+#### ✅ Accepted Papers
+- **A Lightweight Transformer Ensemble for Explainable Depression Detection** – *IEEE, 2025*  
+- **Robust Dual-Site Cancer Screening via Multi-Scale Vision Transformer** – *IEEE, 2025*
+
+#### 📝 Papers Under Review
+- **Hybrid Transfer Learning Framework for Accurate Skin Cancer Diagnosis** – *Digital Health Journal*  
+- **Explainable Token-Fusion Transformer for Drowsiness Recognition** – *Array Journal*  
+- **Adversarial Energy Latency Sponge Attack on Resource Constraint Devices: A Review** – *IEEE Internet of Things Journal*  
+- **A Deep Learning Framework for Multilingual Medical Text Recognition** – *International Journal of Computing and Digital Systems (IJC&DS)*
 
 ---
 
@@ -45,7 +55,11 @@ I have **hands-on research experience** in areas like **Depression Detection**, 
 ## 🛠️ Skills & Tools
 
 ### **Programming Languages**
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat&logo=r&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 
 ### **AI & Machine Learning**
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=pytorch&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
@@ -54,7 +68,13 @@ I have **hands-on research experience** in areas like **Depression Detection**, 
 ![OpenCV](https://img.shields.io/badge/OpenCV-%23FF6C00.svg?style=flat&logo=opencv&logoColor=white) ![Pillow](https://img.shields.io/badge/Pillow-%23C9A77C.svg?style=flat) ![NLTK](https://img.shields.io/badge/NLTK-%23008080.svg?style=flat&logo=nltk&logoColor=white) ![SpaCy](https://img.shields.io/badge/SpaCy-%233272B7.svg?style=flat) ![Gensim](https://img.shields.io/badge/Gensim-%230092CC.svg?style=flat)
 
 ### **Data Analysis & Visualization**
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23E13C23.svg?style=flat&logo=matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-%236CB7F1.svg?style=flat) ![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=flat&logo=tableau&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23E13C23.svg?style=flat&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-%236CB7F1.svg?style=flat)
+![ggplot2](https://img.shields.io/badge/ggplot2-%23276DC3.svg?style=flat&logo=r&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=flat&logo=tableau&logoColor=white)
 
 ### **Web Development**
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=flat&logo=flask&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)

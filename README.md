@@ -20,7 +20,7 @@
 
 ### 💡 My Research Experience
 
-I have **hands-on research experience** across **depression detection**, **medical imaging**, **multilingual medical text recognition**, **adversarial attacks on resource-constrained systems**, and **explainable AI**, contributing to **published work**, **accepted papers**, and **ongoing peer-reviewed research**.
+I have **hands-on research experience** across **depression detection**, **medical imaging**, **multilingual medical text recognition**, **adversarial attacks on resource-constrained systems**, and **explainable AI**.
 
 #### 📚 Published Papers
 - **Optimizing Energy Usage: Genetic Algorithms Leading the Charge Toward Sustainability** – *Springer Nature*  

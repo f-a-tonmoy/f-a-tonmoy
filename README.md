@@ -29,9 +29,9 @@ I have **hands-on research experience** across **depression detection**, **medic
 #### ✅ Accepted Papers
 - **A Lightweight Transformer Ensemble for Explainable Depression Detection** – *IEEE, 2025*  
 - **Robust Dual-Site Cancer Screening via Multi-Scale Vision Transformer** – *IEEE, 2025*
+- **Hybrid Transfer Learning Framework for Accurate Skin Cancer Diagnosis** – *Digital Health Journal*  
 
 #### 📝 Papers Under Review
-- **Hybrid Transfer Learning Framework for Accurate Skin Cancer Diagnosis** – *Digital Health Journal*  
 - **Explainable Token-Fusion Transformer for Drowsiness Recognition** – *Array Journal*  
 - **Adversarial Energy Latency Sponge Attack on Resource Constraint Devices: A Review** – *IEEE Internet of Things Journal*  
 - **A Deep Learning Framework for Multilingual Medical Text Recognition** – *International Journal of Computing and Digital Systems (IJC&DS)*

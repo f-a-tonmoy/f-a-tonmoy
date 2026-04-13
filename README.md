@@ -23,9 +23,9 @@
 I have **hands-on research experience** across **depression detection**, **medical imaging**, **multilingual medical text recognition**, **adversarial attacks on resource-constrained systems**, and **explainable AI**.
 
 #### 📚 Published Papers
-- **Hybrid Transfer Learning Framework for Accurate Skin Cancer Diagnosis** – *Digital Health (SAGE)*
-- **Optimizing Energy Usage: Genetic Algorithms Leading the Charge Toward Sustainability** – *Springer Nature*  
-- **Texture Feature-Based Colonic Polyp Detection Using Deep Learning Techniques** – *Springer Nature*
+- **Hybrid Transfer Learning Framework for Accurate Skin Cancer Diagnosis** – *[Digital Health (SAGE)](https://journals.sagepub.com/doi/10.1177/20552076261438923)*  
+- **Optimizing Energy Usage: Genetic Algorithms Leading the Charge Toward Sustainability** – *[Springer Nature](https://link.springer.com/chapter/10.1007/978-3-031-50887-5_9)*  
+- **Texture Feature-Based Colonic Polyp Detection Using Deep Learning Techniques** – *[Springer Nature](https://link.springer.com/chapter/10.1007/978-3-031-73324-6_2)*
 
 #### ✅ Accepted Papers
 - **A Lightweight Transformer Ensemble for Explainable Depression Detection** – *IEEE, 2025*  

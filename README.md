@@ -18,7 +18,21 @@
   
 ---
 
-### 💡 My Research Experience
+### 💼 Work Experience
+
+**Data Evangelist Intern – DataCamp** _(Feb 2026 – Present · New York, NY)_  
+- Building **scalable data pipelines** for multi-source data integration and validation.  
+- Developing **data applications and analytical workflows** to explore key metrics.  
+- Analyzing data to uncover **trends, patterns, and drivers** for decision-making.
+
+**Data Analyst – The City College of New York** _(Oct 2025 – Feb 2026 · New York, NY)_  
+- Analyzed institutional data using **Excel, Tableau, and Python** to drive advising strategies.  
+- Conducted **surveys and retention studies** to identify behavioral patterns.  
+- Built **reports and dashboards** to improve data-driven decision-making.
+
+---
+
+### 💡 Research Experience
 
 I have **hands-on research experience** across **depression detection**, **medical imaging**, **multilingual medical text recognition**, **adversarial attacks on resource-constrained systems**, and **explainable AI**.
 

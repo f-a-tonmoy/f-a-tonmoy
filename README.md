@@ -20,7 +20,7 @@
 
 ### 💼 Work Experience
 
-**Data Evangelist Intern – DataCamp** _(Feb 2026 – Present · New York, NY)_  
+**Data Evangelist Intern – DataCamp** _(Feb 2026 – May 2026 · New York, NY)_  
 - Building **scalable data pipelines** for multi-source data integration and validation.  
 - Developing **data applications and analytical workflows** to explore key metrics.  
 - Analyzing data to uncover **trends, patterns, and drivers** for decision-making.
@@ -37,18 +37,18 @@
 I have **hands-on research experience** across **depression detection**, **medical imaging**, **multilingual medical text recognition**, **adversarial attacks on resource-constrained systems**, and **explainable AI**.
 
 #### 📚 Published Papers
-- **Hybrid Transfer Learning Framework for Accurate Skin Cancer Diagnosis** – *[Digital Health (SAGE)](https://journals.sagepub.com/doi/10.1177/20552076261438923)*  
+- **Hybrid Transfer Learning Framework for Accurate Skin Cancer Diagnosis** – *[Digital Health (SAGE)](https://journals.sagepub.com/doi/10.1177/20552076261438923)*
 - **Optimizing Energy Usage: Genetic Algorithms Leading the Charge Toward Sustainability** – *[Springer Nature](https://link.springer.com/chapter/10.1007/978-3-031-50887-5_9)*  
 - **Texture Feature-Based Colonic Polyp Detection Using Deep Learning Techniques** – *[Springer Nature](https://link.springer.com/chapter/10.1007/978-3-031-73324-6_2)*
+- **Robust Dual-Site Cancer Screening via Multi-Scale Vision Transformer** – *[IEEE Xplore](https://ieeexplore.ieee.org/document/11504035)*
 
 #### ✅ Accepted Papers
 - **A Lightweight Transformer Ensemble for Explainable Depression Detection** – *IEEE, 2025*  
-- **Robust Dual-Site Cancer Screening via Multi-Scale Vision Transformer** – *IEEE, 2025*
 
 #### 📝 Papers Under Review
+- **Multimodal Learning in Medical Imaging: Methods & Clinical Application** – *Elsevier*  
 - **Explainable Token-Fusion Transformer for Drowsiness Recognition** – *Array Journal*  
-- **Adversarial Energy Latency Sponge Attack on Resource Constraint Devices: A Review** – *IEEE Internet of Things Journal*  
-- **A Deep Learning Framework for Multilingual Medical Text Recognition** – *International Journal of Computing and Digital Systems (IJC&DS)*
+- **Adversarial Energy Latency Sponge Attack on Resource Constraint Devices: A Review** – *IEEE Internet of Things Journal*
 
 ---
 
@@ -96,8 +96,8 @@ I have **hands-on research experience** across **depression detection**, **medic
 ### **Databases & Big Data**
 ![Oracle](https://img.shields.io/badge/Oracle-%23F80000.svg?style=flat&logo=oracle&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white) ![Hadoop](https://img.shields.io/badge/Hadoop-%23425E87.svg?style=flat&logo=apache-hadoop&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-%23E25A1C.svg?style=flat&logo=apachespark&logoColor=white)
 
-### **Cloud & MLOps**
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-%23003984.svg?style=flat&logo=mlflow&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white)
+### **Cloud & Deployment**
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-%23003984.svg?style=flat&logo=mlflow&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white)
 
 ### **R&D Tools**
 ![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=flat&logo=latex&logoColor=white) ![Mendeley](https://img.shields.io/badge/Mendeley-%23A6192E.svg?style=flat&logo=mendeley&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=flat&logo=jupyter&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white) ![JetBrains](https://img.shields.io/badge/JetBrains-%23000000.svg?style=flat&logo=jetbrains&logoColor=white)

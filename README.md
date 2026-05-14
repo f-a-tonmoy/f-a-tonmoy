@@ -38,9 +38,9 @@ I have **hands-on research experience** across **depression detection**, **medic
 
 #### 📚 Published Papers
 - **Hybrid Transfer Learning Framework for Accurate Skin Cancer Diagnosis** – *[Digital Health (SAGE)](https://journals.sagepub.com/doi/10.1177/20552076261438923)*
+- **Robust Dual-Site Cancer Screening via Multi-Scale Vision Transformer** – *[IEEE Xplore](https://ieeexplore.ieee.org/document/11504035)*
 - **Optimizing Energy Usage: Genetic Algorithms Leading the Charge Toward Sustainability** – *[Springer Nature](https://link.springer.com/chapter/10.1007/978-3-031-50887-5_9)*  
 - **Texture Feature-Based Colonic Polyp Detection Using Deep Learning Techniques** – *[Springer Nature](https://link.springer.com/chapter/10.1007/978-3-031-73324-6_2)*
-- **Robust Dual-Site Cancer Screening via Multi-Scale Vision Transformer** – *[IEEE Xplore](https://ieeexplore.ieee.org/document/11504035)*
 
 #### ✅ Accepted Papers
 - **A Lightweight Transformer Ensemble for Explainable Depression Detection** – *IEEE, 2025*  
